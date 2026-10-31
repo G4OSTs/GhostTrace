@@ -51,7 +51,7 @@ IP Tracking demonstrates how public IP addresses can be collected through a trac
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/G4OSTs/GhostTrace
+git clone https://github.com/G4OSTs/GhostTrace.git
 cd GhostTrace
 pip install -r requirements.txt
 python3 GhostTrace.py
