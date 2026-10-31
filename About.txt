@@ -1,0 +1,24 @@
+_____Ghost Trace_____
+
+  * Ghost Trace is IP Look up & ip pishing tool develop by G4OSTs, Tool has a 2 options.
+
+	1) IP LOOK UP
+	2) IP Pishing
+
+
+1) IP LOOK UP
+    
+   * Ip look up gives you input ip addres info like eg:- region, location, country, isp info...etc. and google map url it gives divice or sever
+     location.ip look up also working web ip addreses. Get idea what kind of ip address you have
+
+2) IP Pishing
+   * Ip pishing is capable for mobile devices eg:- mobile phones, Laptop, PC..etc. tool gives an url send target tool return targrt public ip
+     scan with ip look up 1st option get 
+ 
+
+
+_____reach me_____
+
+github = https://github.com/G4OSTs
+instagram = https://www.instagram.com/vimukthi_vishwa_
+gmail = ghost404v@gmail.com
